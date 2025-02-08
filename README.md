@@ -1,4 +1,4 @@
-![logo](https://github.com/SahilPandey488/SahilPandey488/blob/main/Sahil%20Pandey.png)
+<img src="https://github.com/SahilPandey488/SahilPandey488/blob/main/Sahil%20Pandey.png" width=1500px height=500px>
 <h1 align="center">Hi 👋, I'm Sahil Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
